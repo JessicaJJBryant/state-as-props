@@ -1,0 +1,16 @@
+.MenuItem {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+  }
+  
+  .MenuItem button {
+    background-color: white;
+    color: rgb(13, 38, 109);
+    border-radius: 5px;
+    font-size: 25px;
+    width: 35px;
+    height: 35px;
+  }
